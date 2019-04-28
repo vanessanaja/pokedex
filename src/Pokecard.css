@@ -21,3 +21,8 @@
   border-radius: 3px;
   margin-bottom: 1rem;
 }
+
+.Pokecard img:hover {
+  transform: scale(1.25);
+  opacity: 0.7;
+}
