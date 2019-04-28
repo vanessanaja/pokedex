@@ -8,9 +8,16 @@
   border-radius: 10px;
 }
 
-.Pokecard-title {
-  font-size: 25px;
-  ;
+.Pokecard-data {
+  font-size: 80%;
 }
 
-.Pokecard-data {}
+.Pokecard-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+  background-color: #eceff1;
+  border-radius: 3px;
+  margin-bottom: 1rem;
+}
